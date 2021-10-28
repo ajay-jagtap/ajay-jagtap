@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Ajay Jagtap</h1>
-<h3 align="center">Full Stack Developer from India (IN) <img src="https://img.icons8.com/color/50/000000/india-circular.png"/> </h3>
+<h3 align="center">Full Stack Developer from India (IN) <img src="https://img.icons8.com/color/50/000000/india-circular.png" width="20"/> </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ajay-jagtap/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>
@@ -28,7 +28,6 @@ Here are some ideas to get you started:
  <a href = "mailto: ajayjagtap.10@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://camo.githubusercontent.com/75cf390b9d79ebd26fad3798f4f3dc577cce24204fe23950dd033119e645e736/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d646576646564" alt="ajay-jagtap" /> </p>
 
 - 🔭 I’m currently working with [Reval Analytical Services Pvt. Ltd. ](http://www.revalanalytics.com/)
 
@@ -91,6 +90,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/RoboMongo-43853D?style=for-the-badge&logo=mongo3t&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/MySQL%20Query%20Browser-3776AB.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 
+</p>
+
+
+<p align="left"> <img src="https://camo.githubusercontent.com/75cf390b9d79ebd26fad3798f4f3dc577cce24204fe23950dd033119e645e736/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d646576646564" alt="ajay-jagtap" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaprenge" alt="swaprenge" /></a> </p>
