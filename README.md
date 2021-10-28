@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Ajay Jagtap</h1>
-<h3 align="center">Full Stack Developer developer from India (IN) <img src="https://img.icons8.com/color/50/000000/india-circular.png" width="14"/> </h3>
+<h3 align="center">Full Stack Developer from India (IN) <img src="https://img.icons8.com/color/50/000000/india-circular.png"/> </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ajay-jagtap/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>
@@ -37,6 +37,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about **React, Angular, Node, MongoDB, MySQL**
 
 - 📫 How to reach me **ajayjagtap.10@gmail.com**
+
+- 👯 [Instagram Clone ](https://instgram-clone-33f92.web.app/)
+
+
+### 📫 Libraries Published to NPM
+
+- 🔭 [ngx-bs-modal ](https://www.npmjs.com/package/ngx-bs-modal/)
+
+- 🔭 [ngx-bs-tooltip ](https://www.npmjs.com/package/ngx-bs-tooltip/)
 
 
 ### 💻 Languages and Tools
@@ -58,7 +67,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Supabase&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/REST-ff1709?style=for-the-badge&logo=rest&logoColor=white&color=ff1709&labelColor=gray" height="25">
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="25">
-<img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25">
 
 
@@ -66,6 +74,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
 <img src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/ecmascript-F7DF1E?style=for-the-badge&logo=ecmascript&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/json-3776AB?style=for-the-badge&logo=json&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 
@@ -84,6 +93,8 @@ Here are some ideas to get you started:
 
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaprenge" alt="swaprenge" /></a> </p>
+
 ### ⭐ Statistics and Languages
 
  <!-- <p align="center"> 
@@ -96,5 +107,3 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-jagtap&theme=tokyonight" />
 </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaprenge" alt="swaprenge" /></a> </p>
