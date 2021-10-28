@@ -20,6 +20,14 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ajay Jagtap</h1>
 <h3 align="center">Full Stack Developer developer from India (IN) <img src="https://img.icons8.com/color/50/000000/india-circular.png" width="14"/> </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ajay-jagtap/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ajay__jagtap/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ajay.jagtap.7549/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
+ <a href = "mailto: ajayjagtap.10@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+</p>
+
 <p align="left"> <img src="https://camo.githubusercontent.com/75cf390b9d79ebd26fad3798f4f3dc577cce24204fe23950dd033119e645e736/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d646576646564" alt="ajay-jagtap" /> </p>
 
 - 🔭 I’m currently working with [Reval Analytical Services Pvt. Ltd. ](http://www.revalanalytics.com/)
@@ -90,13 +98,3 @@ Here are some ideas to get you started:
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaprenge" alt="swaprenge" /></a> </p>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/ajay-jagtap/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ajay__jagtap/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ajay.jagtap.7549/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: ajayjagtap.10@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-</p>
