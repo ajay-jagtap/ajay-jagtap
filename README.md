@@ -37,14 +37,25 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ajayjagtap.10@gmail.com**
 
-- 👯 [Instagram Clone ](https://instgram-clone-33f92.web.app/)
-
 
 ### 📫 Libraries Published to NPM
 
-- 🔭 [ngx-bs-modal ](https://www.npmjs.com/package/ngx-bs-modal/)
+- 👯 [ngx-bs-modal ](https://www.npmjs.com/package/ngx-bs-modal/)
 
-- 🔭 [ngx-bs-tooltip ](https://www.npmjs.com/package/ngx-bs-tooltip/)
+- 👯 [ngx-bs-tooltip ](https://www.npmjs.com/package/ngx-bs-tooltip/)
+
+
+### 📫 Sample Applications
+
+- 🔭 [Instagram Clone ](https://instgram-clone-33f92.web.app/)
+
+- 🔭 [ngx-bs-modal Demo ](https://ajay-jagtap.github.io/ngx-bs-modal/)
+
+- 🔭 [SSO Google (Auth 2.0) ](https://googleauthnode.herokuapp.com/)
+
+- 🔭 [SSO OKTA (SAML) ](https://okta-saml-node.herokuapp.com/)
+
+- 🔭 [Razorpay Payment Gateway ](https://razorpay--payment--gateway.herokuapp.com/)
 
 
 ### 💻 Languages and Tools
