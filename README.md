@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h3 align="center">Full Stack Developer from India (IN) <img src="https://img.icons8.com/color/50/000000/india-circular.png" width="20"/> </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ajay-jagtap/" target="_blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/linkedin.svg" alt="LinkedIn Icon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ajay-jagtap/" target="_blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/linkedin.svg" alt="LinkedIn Icon" height="30" width="40" style="filter: invert(80%);"/></a>
 <a href="https://www.instagram.com/ajay__jagtap/" target="_blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/instagram.svg" alt="Instagram Icon" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ajay.jagtap.7549/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="Facebook Icon" height="30" width="40" /></a>
  <a href = "mailto: ajayjagtap.10@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
