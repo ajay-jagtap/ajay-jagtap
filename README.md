@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 <h3 align="center">Full Stack Developer from India (IN) <img src="https://img.icons8.com/color/50/000000/india-circular.png" width="20"/> </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ajay-jagtap/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ajay__jagtap/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ajay.jagtap.7549/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ajay-jagtap/" target="_blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/linkedin.svg" alt="LinkedIn Icon" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ajay__jagtap/" target="_blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.0.1/instagram.svg" alt="Instagram Icon" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ajay.jagtap.7549/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="Facebook Icon" height="30" width="40" /></a>
  <a href = "mailto: ajayjagtap.10@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
 
-- 🔭 I’m currently working with [Reval Analytical Services Pvt. Ltd. ](http://www.revalanalytics.com/)
+- 🔭 I’m currently working with [Globant India Pvt. Ltd.](https://www.globant.com/)
 
 - 🌱 I’m currently learning **NextJS**
 
@@ -43,19 +43,6 @@ Here are some ideas to get you started:
 - 👯 [ngx-bs-modal ](https://www.npmjs.com/package/ngx-bs-modal/)
 
 - 👯 [ngx-bs-tooltip ](https://www.npmjs.com/package/ngx-bs-tooltip/)
-
-
-### 📫 Sample Applications
-
-- 🔭 [Instagram Clone ](https://instgram-clone-33f92.web.app/)
-
-- 🔭 [ngx-bs-modal Demo ](https://ajay-jagtap.github.io/ngx-bs-modal/)
-
-- 🔭 [SSO Google (Auth 2.0) ](https://googleauthnode.herokuapp.com/)
-
-- 🔭 [SSO OKTA (SAML) ](https://okta-saml-node.herokuapp.com/)
-
-- 🔭 [Razorpay Payment Gateway ](https://razorpay--payment--gateway.herokuapp.com/)
 
 
 ### 💻 Languages and Tools
@@ -102,22 +89,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL%20Query%20Browser-3776AB.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 
 </p>
-
-
-<p align="left"> <img src="https://camo.githubusercontent.com/75cf390b9d79ebd26fad3798f4f3dc577cce24204fe23950dd033119e645e736/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d646576646564" alt="ajay-jagtap" />
-</p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaprenge" alt="swaprenge" /></a> </p>
-
-### ⭐ Statistics and Languages
-
- <!-- <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=ajay-jagtap&count_private=true&show_icons=true&theme=buefy" alt="ajay-jagtap" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-jagtap&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="ajay-jagtap" height="165" />
- </p> -->
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ajay-jagtap&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-jagtap&theme=tokyonight" />
-</p>
-
